@@ -1,6 +1,6 @@
 # DoxSoft
 Лучший софт для докс
-
+as
 # Установка:
 1. termux-setup-storage
 2. pkg install python -y
